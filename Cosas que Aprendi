@@ -1,0 +1,17 @@
+# polimorfismo
+
+La herencia no es tan complicada si la vemos de un punto de vista mas humano que tecnico.
+Por ejemplo si analizamos a la hora de crear objetos que es lo que todos estos objetos tienen en comun.
+De ahi podemos partir para hacer un codigo mejor optimizado y mejores practicas.
+
+En java la herencia es particularmente facil de aplicarla pero a la hora de la clase hijo , puede tener sus complicaciones a la hora del sintaxis.
+Solo se tiene que investigar un poco y enteder el por que. Ya despues hay dos maneras , crear los metodos en la clase padre o en las sub clases.
+Yo prefiero mejor crear los metodos para cada clase ( Metodos que son diferentes a cada sub clase) y a la hora de llamarlos al Main tuve unos errors pero 
+Aprendi que simplemente se Castea el llamado y lsto.
+
+
+El polimorfismo
+Solo con escuchar el nombre da miedo , y en efecto da miedo.
+Es una forma de hacer las cosas , pero en vez de tener una respuesta , puede tener varias respuestas( este dependiendo de los parametros)
+A esto se le llamada Override o Sobrecarga . Es muy util ya que podemos tener todos los atributos pero no iniciarlizarlos todos , simplemente los que
+necesitemos . En mi caso  con java , podria haber hecho un codigo mas limpio y decente con la sobrecarga pero quise experimentar primero con la herencia .
